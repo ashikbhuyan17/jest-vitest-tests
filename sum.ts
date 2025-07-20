@@ -1,4 +1,8 @@
 // sum.js
-export function sum(a, b) {
-  return a + b;
+export function sum(numbers) {
+  let sum = 0;
+  for (const number of numbers) {
+    sum += number;
+  }
+  return sum;
 }
