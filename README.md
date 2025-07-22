@@ -28,5 +28,10 @@ vitest run // runs all tests once (good for CI/CD pipelines)
 vitest watch // watches files for changes and reruns affected tests
 
 
+AAA Patten => 
+A(Arrange)=>Arrange the data
+A(Action)=>Perform the action
+A(Assert)=>Evaluate the expectations
+
 ```
 
